@@ -5,7 +5,9 @@ GeneFind is a command-line bioinformatics design tool written in python 3.x. Gen
 The overall purpose of GeneFind is to reduce the cognitive labour required to research synthetic biology. GeneFind translates a cogntively limited problem, protein design, to a computational problem. This should reduce total turnaround time for experimenting with synthetic genes.
 
 ## Running
-Run with: python3 genefind.py [sequence]
+Run with: 
+```py
+python3 genefind.py [sequence]```
 sequence must be a string consisting of either 'a' 't' 'g' or 'c' (total string length Must be divisible by three)
 
 ## Collaborators

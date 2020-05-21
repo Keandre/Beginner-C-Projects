@@ -14,3 +14,10 @@ sequence must be a string consisting of either 'a' 't' 'g' or 'c' (total string 
 
 ## Collaborators
 People who know Python and know high school chemistry and who are interested are welcome to contact me.
+
+## Future Features
+• A parser which generates .GRO file for the gromax molecular dynamics simulator.
+• A result parser which determines the vector changes from the before and after state.
+• A library of stable ammino acids
+• A sample fitness function definition prototype
+• Module that can parse the fitness function for the machine learning module.

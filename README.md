@@ -16,7 +16,7 @@ sequence must be a string consisting of either 'a' 't' 'g' or 'c' (total string 
 People who know Python and know high school chemistry and who are interested are welcome to contact me.
 
 ## Future Features
-• A parser which generates .GRO file for the gromax molecular dynamics simulator.
+• A parser which generates .gro file for the GROMACS molecular dynamics simulator.
 
 • A result parser which determines the vector changes from the before and after state.
 

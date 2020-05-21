@@ -6,8 +6,10 @@ The overall purpose of GeneFind is to reduce the cognitive labour required to re
 
 ## Running
 Run with: 
+
 ```py
-python3 genefind.py [sequence]```
+python3 genefind.py [sequence]
+```
 sequence must be a string consisting of either 'a' 't' 'g' or 'c' (total string length Must be divisible by three)
 
 ## Collaborators
